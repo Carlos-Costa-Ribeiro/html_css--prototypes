@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+table,tr,td {
+    width: 1000px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.ve {
+    font-size: 19px;
+    background-color: green;
+    color: black;
+}
+
+.vc {
+    background-color: lightgreen;
+    font-size: 20px;
+}
+
+.vb {
+    font-size: 15px;
+    color: black;
+    background-color: rgb(106, 250, 106);
+}
+
+.t--black {
+    background-color: black;
+}
+
+.money {
+    text-align: end;
+}
