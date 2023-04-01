@@ -3,6 +3,7 @@
     margin: 0px;
     padding: 0px;
 }
+
 table,tr,td {
     width: 1000px;
     border: 1px solid black;
@@ -28,7 +29,7 @@ table,tr,td {
 }
 
 .t--black {
-    background-color: black;
+    background-color: rgb(255, 255, 255);
 }
 
 .money {
